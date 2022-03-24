@@ -1,4 +1,5 @@
 # Whale_Market
+## 语言：皆为C语言
 ### 灵感来源：https://b23.tv/VXcekpT
 #### 上方视频中提供的参考代码：https://github.com/201220014/WhaleMarket
 <br>
