@@ -3,6 +3,8 @@
 ![badge](https://img.shields.io/static/v1?label=MadeBy&message=striumve&color=informational)
 ![badge](https://img.shields.io/static/v1?label=CodeMark&message=Perfect&color=success)
 
+![icon](icon.JPG)
+
 *****
 
 #### 灵感来源：[B站up主“爱扑bug的熊”的视频](https://b23.tv/VXcekpT)
