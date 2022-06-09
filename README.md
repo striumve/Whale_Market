@@ -3,6 +3,8 @@
 ![badge](https://img.shields.io/static/v1?label=MadeBy&message=striumve&color=informational)
 ![badge](https://img.shields.io/static/v1?label=CodeMark&message=Perfect&color=success)
 
+*****
+
 #### 灵感来源：[B站up主“爱扑bug的熊”的视频](https://b23.tv/VXcekpT)
 #### 上方视频中up主提供了[参考代码](https://github.com/201220014/WhaleMarket)
 <br>
@@ -25,3 +27,7 @@ basic.h中的"static const char* menu[]"参考自
 如需下载项目，请点击右上角绿色按钮"code"，在展开的菜单栏中点击"Download ZIP"即可。
 如需打开项目，请下载项目、下载Visual Studio（[下载链接](https://visualstudio.microsoft.com/zh-hans/)）后，用Visual Studio打开"Whale_Market.sln"即可。
 （~~都会用GitHub了，这种操作还不会吗~~）
+
+*****
+
+2022-06-09：修改了README.md部分内容。为Whale Market制作了图标。
