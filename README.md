@@ -1,6 +1,6 @@
 # Whale_Market
 
-![badge](https://img.shields.io/static/v1?label=MadeBy&message=striumve&color=informational)
+[![badge](https://img.shields.io/static/v1?label=MadeBy&message=striumve&color=informational)](https://github.com/striumve)
 ![badge](https://img.shields.io/static/v1?label=CodeMark&message=Perfect&color=success)
 
 ![icon](icon.JPG)
@@ -9,8 +9,8 @@
 
 #### 灵感来源：[B站up主“爱扑bug的熊”的视频](https://b23.tv/VXcekpT)
 #### 上方视频中up主提供了[参考代码](https://github.com/201220014/WhaleMarket)
-<br>
-代码基本是自己写的，那up写的代码实在混乱，看不下去。
+
+代码基本是自己写的，主要是为了锻炼一下自己，~~而且那up写的代码实在混乱，看不下去~~。
 
 basic.h中的"static const char* banner"参考自 
 [此](https://github.com/201220014/WhaleMarket/blob/master/src/tools/hint.c)。
@@ -25,10 +25,6 @@ basic.h中的"static const char* menu[]"参考自
 代码使用Visual Studio Community 2022编写及调试。
 
 **Visual Studio就是宇宙最强IDE！不接受任何反驳！**
-
-如需下载项目，请点击右上角绿色按钮"code"，在展开的菜单栏中点击"Download ZIP"即可。
-如需打开项目，请下载项目、下载Visual Studio（[下载链接](https://visualstudio.microsoft.com/zh-hans/)）后，用Visual Studio打开"Whale_Market.sln"即可。
-（~~都会用GitHub了，这种操作还不会吗~~）
 
 *****
 
