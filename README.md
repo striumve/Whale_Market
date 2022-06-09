@@ -23,5 +23,5 @@ basic.h中的"static const char* menu[]"参考自
 **Visual Studio就是宇宙最强IDE！不接受任何反驳！**
 
 如需下载项目，请点击右上角绿色按钮"code"，在展开的菜单栏中点击"Download ZIP"即可。
-<br>
 如需打开项目，请下载项目、下载Visual Studio（[下载链接](https://visualstudio.microsoft.com/zh-hans/)）后，用Visual Studio打开"Whale_Market.sln"即可。
+（~~都会用GitHub了，这种操作还不会吗~~）
