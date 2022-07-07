@@ -24,7 +24,7 @@ basic.h中的"static const char* menu[]"参考自
 待暑假期间应会继续制作。
 还计划为该项目制作一个网页，仍同个人网站一样用GitHub Pages托管服务。
 <br><br>
-代码使用Visual Studio Community 2022编写及调试。
+代码使用Visual Studio Community 2022编写及调试。项目代码由Visual Studio直接上传。
 
 **Visual Studio就是宇宙最强IDE！不接受任何反驳！**
 
