@@ -10,7 +10,8 @@
 #### 灵感来源：[B站up主“爱扑bug的熊”的视频](https://b23.tv/VXcekpT)
 #### 上方视频中up主提供了[参考代码](https://github.com/201220014/WhaleMarket)
 
-代码基本是自己写的，主要是为了锻炼一下自己，~~而且那up写的代码实在混乱，看不下去~~。
+代码基本是自己写的，主要是为了锻炼一下自己，而且那up写的代码实在一言难尽。如下是我改掉了一些错误（#include文件路径格式不对）后显示的：
+![image](imageOfReadme.jpg)
 
 basic.h中的"static const char* banner"参考自 
 [此](https://github.com/201220014/WhaleMarket/blob/master/src/tools/hint.c)。
