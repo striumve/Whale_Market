@@ -30,3 +30,5 @@ basic.h中的"static const char* menu[]"参考自
 *****
 
 2022-06-09：修改了README.md部分内容。为Whale Market制作了图标。
+
+2022-07-07：压缩了图标，由原来的450+KB压缩成了47.5KB。
