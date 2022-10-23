@@ -1,7 +1,7 @@
 # Whale_Market
 
 [![badge](https://img.shields.io/static/v1?label=MadeBy&message=striumve&color=informational)](https://github.com/striumve)
-![badge](https://img.shields.io/static/v1?label=CodeMark&message=Perfect&color=success)
+[![badge](https://img.shields.io/static/v1?label=LICENSE&message=Apache&color=success)](https://www.apache.org)
 
 ![icon](icon.JPG)
 
